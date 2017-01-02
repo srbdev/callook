@@ -20,7 +20,6 @@ NASHUA, NH 03062
 Effective: 06/19/2009
 Expires: 06/19/2019
 FCC ULS lookup: http://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=3112513
-$
 ```
 
 ### Source
